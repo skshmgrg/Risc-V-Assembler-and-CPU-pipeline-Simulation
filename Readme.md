@@ -124,7 +124,7 @@ A cycle-accurate simulation of a 5-stage pipelined RISC-V processor that closely
 ### PIPELINE
 -Go to the riscV Pipeline directory and run 
 ```bash
-g++ -std=c++17 -Iinclude src/*.cpp -o pipeline
+g++ -Iinclude src/*.cpp -o pipeline
 ```
 ### ASSEMBLER
 -Go to the riscV assembler directory and run 
