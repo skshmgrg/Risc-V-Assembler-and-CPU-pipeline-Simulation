@@ -11,7 +11,7 @@ The project follows a modular, hardware-inspired design and is intended for acad
 ## PROJECT STRUCTURE
 
 <pre>
-RISC_V_TOOLCHAIN/
+Risc-V-Assembler-and-CPU-pipeline-Simulation/
 │
 ├── assembler/
 │   ├── include/
@@ -26,8 +26,7 @@ RISC_V_TOOLCHAIN/
 │   │   └── assembler.cpp
 │   │
 │   ├── input.txt
-│   ├── output.txt
-│   └── README.md
+│  
 │
 ├── pipeline/
 │   ├── include/
@@ -50,7 +49,7 @@ RISC_V_TOOLCHAIN/
 │   │   └── main.cpp
 │   │
 │   ├── input.txt
-│   └── pipeline.exe
+│   
 │
 └── README.md
 </pre>
